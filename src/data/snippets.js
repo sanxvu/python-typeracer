@@ -1,10 +1,9 @@
 export const snippets = [
   {
     id: 0,
-    title: "Variables",
-    code: `x = 10
-y = 5
-print(x+y)`,
+    title: "Round 1",
+    code: `teacher_name = "Ms. Vu"
+print(f"Hello {teacher_name}")`,
   },
   {
     id: 1,
