@@ -7,16 +7,16 @@ print(f"Hello {teacher_name}")`,
   },
   {
     id: 1,
-    title: "For Loop",
-    code: `for i in range(5):
-print(i)`,
+    title: "Round 2",
+    code: `name = input("What is your name? ")
+print(f"Hello {name}!")`,
   },
   {
     id: 2,
-    title: "Function",
-    code: `def greet(name):
-return "Hello " + name 
-print(greet("Ms. Vu"))`,
+    title: "Round 3",
+    code: `name = input("Enter your name: ")
+age = int(input("Enter your age: ))
+print(f"Hello {name}! You are {age} years old.")`,
   },
 ];
 
