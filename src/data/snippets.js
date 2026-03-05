@@ -15,7 +15,7 @@ print(f"Hello {name}!")`,
     id: 2,
     title: "Round 3",
     code: `name = input("Enter your name: ")
-age = int(input("Enter your age: ))
+age = int(input("Enter your age: "))
 print(f"Hello {name}! You are {age} years old.")`,
   },
 ];
